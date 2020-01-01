@@ -1,5 +1,5 @@
 
-A simple Python game written in python by using free game library
+A simple game written in python by using free game library
 
 Controlls
 
